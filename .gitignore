@@ -1,0 +1,56 @@
+# Project exclude paths
+/.gradle/
+/Topics/Comments/Adding comments to improve code readability/out/
+/Topics/Comments/Adding comments to improve code readability/out/production/classes/
+/Topics/Comments/Calculating and printing a number and its square/out/
+/Topics/Comments/Calculating and printing a number and its square/out/production/classes/
+/Topics/Comments/Hello, Kotlin/out/
+/Topics/Comments/Hello, Kotlin/out/production/classes/
+/Topics/Comments/Printing only the longest line/out/
+/Topics/Comments/Printing only the longest line/out/production/classes/
+/Topics/Constants and val variables/Calculating the cube of a user-specified integer/out/
+/Topics/Constants and val variables/Calculating the cube of a user-specified integer/out/production/classes/
+/Topics/Constants and val variables/Creating and printing a double value of an integer input/out/
+/Topics/Constants and val variables/Creating and printing a double value of an integer input/out/production/classes/
+/Topics/Data types/Calculate the cube of a float input/out/
+/Topics/Data types/Calculate the cube of a float input/out/production/classes/
+/Topics/Data types/Think as a compiler/out/
+/Topics/Data types/Think as a compiler/out/production/classes/
+/Topics/Invoking functions/Invoking functions/out/
+/Topics/Invoking functions/Invoking functions/out/production/classes/
+/Topics/Invoking functions/Lembas/out/
+/Topics/Invoking functions/Lembas/out/production/classes/
+/Topics/Kotlin style guide. Coding conventions/Determine the length of an input string/out/
+/Topics/Kotlin style guide. Coding conventions/Determine the length of an input string/out/production/classes/
+/Topics/Kotlin style guide. Coding conventions/Validating Kotlin single-line comments/out/
+/Topics/Kotlin style guide. Coding conventions/Validating Kotlin single-line comments/out/production/classes/
+/Topics/Standard input with Java Scanner/Four numbers/out/
+/Topics/Standard input with Java Scanner/Four numbers/out/production/classes/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/
+/Topics/Standard input with Java Scanner/Printing each word in a new line/out/production/classes/
+/Topics/Standard output/Amount on the account/out/
+/Topics/Standard output/Amount on the account/out/production/classes/
+/Topics/Standard output/From 0 to 9/out/
+/Topics/Standard output/From 0 to 9/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
+/Topics/String basics/Check if string reads the same both ways/out/
+/Topics/String basics/Check if string reads the same both ways/out/production/classes/
+/Topics/String basics/I'm learning Kotlin/out/
+/Topics/String basics/I'm learning Kotlin/out/production/classes/
+/Topics/String basics/Reverse a user-input string/out/
+/Topics/String basics/Reverse a user-input string/out/production/classes/
+/Topics/String templates/Arithmetic expression/out/
+/Topics/String templates/Arithmetic expression/out/production/classes/
+/Topics/String templates/Date and time formatting/out/
+/Topics/String templates/Date and time formatting/out/production/classes/
+/Topics/String templates/Generating custom notification message for user/out/
+/Topics/String templates/Generating custom notification message for user/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/String templates/String and its Int/out/
+/Topics/String templates/String and its Int/out/production/classes/
+/Topics/Values and variables/Incrementing a number until it's a multiple of 5/out/
+/Topics/Values and variables/Incrementing a number until it's a multiple of 5/out/production/classes/
+/Topics/Writing first program/Theory/out/
+/Topics/Writing first program/Theory/out/production/classes/
